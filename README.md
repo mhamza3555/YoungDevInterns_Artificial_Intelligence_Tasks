@@ -1,1 +1,1 @@
-# YoungDev_Interns_Tasks
+# This repository contains my internship tasks for the **YoungDev Artificial Intelligence Program**
